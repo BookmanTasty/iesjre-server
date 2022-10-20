@@ -1,0 +1,3 @@
+2022-10-20 14:43:41.730 [main] INFO  com.leyvaddev.CustomServer - Starting server
+2022-10-20 14:44:31.715 [Thread-0] INFO  com.leyvaddev.custom.UserbaseAuthenticator - Authenticating user cesar from null
+2022-10-20 14:44:44.769 [Thread-1] INFO  com.leyvaddev.custom.UserbaseAuthenticator - Authenticating user cesar from null
